@@ -1,3 +1,6 @@
 Shopping List Manager
 created 4/28/26Item
 No items yet.
+- Eggs
+- Milk
+- Bread
